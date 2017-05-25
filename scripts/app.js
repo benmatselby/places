@@ -9,9 +9,9 @@ $(function() {
         showUs: true,
         showAll: true,
 
-        me: ['GB', 'IN', 'DE', 'AE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR'],
-        her: ['GB', 'IE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR'],
-        us: ['GB', 'US', 'BE', 'IT', 'SI', 'ES', 'GR'],
+        me: ['GB', 'IN', 'DE', 'AE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG'],
+        her: ['GB', 'IE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG'],
+        us: ['GB', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG'],
         all: ['GB', 'FR'],
 
         R: Raphael("the-map", 1000, 700),
