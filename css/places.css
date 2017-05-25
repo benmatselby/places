@@ -1,0 +1,25 @@
+.legend {
+    padding: 10px;
+    color: #FFF;
+    background-color: #a7a5a5;
+}
+
+.footer {
+    margin-bottom: 30px;
+}
+
+.him.on {
+    background-color: #337ab7;
+}
+
+.her.on {
+    background-color: #a94442;
+}
+
+.us.on {
+    background-color: #6f5499;
+}
+
+.all.on {
+    background-color: #5cb85c;
+}
