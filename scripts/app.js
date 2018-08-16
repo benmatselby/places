@@ -12,7 +12,7 @@ $(function() {
         me: ['GB', 'IN', 'DE', 'AE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG', 'CY'],
         her: ['GB', 'IE', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG'],
         us: ['GB', 'US', 'BE', 'IT', 'SI', 'ES', 'GR', 'EG'],
-        all: ['GB', 'FR'],
+        all: ['GB', 'FR', 'ES'],
 
         R: Raphael("the-map", 1000, 700),
 
