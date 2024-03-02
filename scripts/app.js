@@ -10,7 +10,7 @@ $(function () {
     me: ["GB", "FR", "IN", "DE", "AE", "US", "BE", "IT", "SI", "ES", "GR", "EG", "CY"],
     her: ["GB", "FR", "IE", "US", "BE", "IT", "SI", "ES", "GR", "EG", "AE"],
     us: ["GB", "FR", "US", "BE", "IT", "SI", "ES", "GR", "EG"],
-    all: ["GB", "FR", "ES", "AE"],
+    all: ["GB", "FR", "ES", "AE", "US"],
 
     R: Raphael("the-map", 1000, 700),
 
