@@ -7,7 +7,7 @@ $(function () {
     showUs: true,
     showAll: true,
 
-    me: ["GB", "FR", "IN", "DE", "AE", "US", "BE", "IT", "SI", "ES", "GR", "EG", "CY"],
+    me: ["GB", "FR", "IN", "DE", "AE", "US", "BE", "IT", "SI", "ES", "GR", "EG", "CY", "PT"],
     her: ["GB", "FR", "IE", "US", "BE", "IT", "SI", "ES", "GR", "EG", "AE"],
     us: ["GB", "FR", "US", "BE", "IT", "SI", "ES", "GR", "EG"],
     all: ["GB", "FR", "ES", "AE", "US"],
